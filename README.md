@@ -93,12 +93,12 @@ skills = {
 
 ### Вхідні дані
 
-![Дані на вхід](assets/input.png)
+![Дані на вхід](assets/input.PNG)
 
 ### Результат для м'яких навичок та твердих навичок
 
-![Результат для м'яких навичок](assets/results_soft_hard.png)
+![Результат для м'яких навичок](assets/results_soft_hard.PNG)
 
 ### Результат для загальної оцінки
 
-![Результат для загальної оцінки](assets/results_general.png)
+![Результат для загальної оцінки](assets/results_general.PNG)
